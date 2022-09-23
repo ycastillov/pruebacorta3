@@ -1,4 +1,4 @@
-#Modificación 1
+#Modificación 2
 import random as rnd 
 aleatorio = rnd.randint(1,1000)
 c_i = 0
